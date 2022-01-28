@@ -1,8 +1,8 @@
 {
   "development": {
     "username": "root",
-    "password": "password",
-    "database": "best_todo_ever",
+    "password": "root",
+    "database": "raman_assesment",
     "host": "127.0.0.1",
     "dialect": "mysql",
     "operatorsAliases": 0

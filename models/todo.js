@@ -1,9 +1,9 @@
 module.exports = (sequelize, DataTypes) => {
-  const Todo = sequelize.define("Todo", {
+  const Raman = sequelize.define("raman_assesment", {
     text: {
       type: DataTypes.STRING,
-      allowNull: false
-    }
+      allowNull: false,
+    },
   });
-  return Todo;
+  return Raman;
 };
